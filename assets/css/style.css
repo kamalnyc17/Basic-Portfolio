@@ -109,7 +109,7 @@ a:hover {
 .outer {
     max-width: 960px;
     margin: auto;
-    background-image: url( "c:/users/kamal/Basic-Portfolio/assets/images/Background 2.jpg" );
+    background-image: url( "../images/Background 2.jpg" );
     background-size: contain;
     border: 1px solid #dddddd;
 }
